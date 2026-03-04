@@ -8,11 +8,7 @@
 0,SansLegs,Sitting,,,,,,,,,
 0,SansTorso,Sitting,,,,,,,,,
 ,,,,,,,,,,,
-0,sansText,you know what imma                make the attack long!,,,,,,,,,
-0.7,BlackScreen,1,,,,,,,,,
-0,Sound,Flash,,,,,,,,,
-0.15,BlackScreen,0,,,,,,,,,
-0,Sound,Flash,,,,,,,,,
+0,sansText,you know what imma make the attack long!,,,,,,,,,
 0.828,GasterBlaster,2,240,0,240,340,90,0.207,0.414
 0.828,ActXY,666,666						
 0.828,GasterBlaster,2,400,0,400,340,90,0.207,0.414
@@ -29,9 +25,9 @@
 0,BoneStab,1,45,2,5,,,,,,
 0,BoneStab,2,45,2,5,,,,,,
 0,BoneStab,3,45,2,5,,,,,,
-0.75,GasterBlaster,2,200,10,340,160,90,0,0.2,,
+0.80,GasterBlaster,2,200,10,340,160,90,0,0.2,,
 
-0,sanshead,wink,,,,,,,,,
+2,sanshead,wink,,,,,,,,,
 5,GasterBlaster,1,200,40,470,270,180,0.2,0.6,,
 0,GasterBlaster,1,200,40,470,380,180,0.2,0.6,,
 0,GasterBlaster,1,200,40,260,190,90,0.2,0.6,,
@@ -264,9 +260,10 @@
 0.45,BoneBulletH,1,600,,,,,,,,
 1,SansText ,I have The WHite soul,,,,,,,,,
 0,Heartmode,4,,,,,,,,,
-0,HeartTeleport,323,329,,,,,,,,
+
 0.7,BlackScreen,1,,,,,,,,,
 0,Sound,Flash,,,,,,,,,
+0,HeartTeleport,323,329,,,,,,,,
 0.15,BlackScreen,0,,,,,,,,,
 0,Sound,Flash,,,,,,,,,
 0,CombatZoneResize,133,251,508,391,,,,,,
@@ -768,6 +765,7 @@
 0,SansAnimation,Idle,,,,,,,,,
 0,DamagePlayer,-200,,,
 3,EndAttack,,
+
 
 
 
